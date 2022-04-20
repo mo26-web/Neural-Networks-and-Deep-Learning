@@ -9,5 +9,5 @@ This is a implementation for Neural Networks and Deep Learning (Coursera) by And
 <li>	Week 4 - PA 5 - Deep Neural Network for Image Classification: Application</li>
 
  </ul>
- 
-see at : https://www.coursera.org/learn/neural-networks-deep-learning
+## References
+https://www.coursera.org/learn/neural-networks-deep-learning
